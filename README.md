@@ -16,7 +16,8 @@ BleciPunTn is a powerful Open Source Intelligence (OSINT) tool written in Go tha
 
 ### Prerequisites
 
-- ![Static Badge](https://img.shields.io/badge/Go%201.23.4-green)
+- ![Static Badge](https://img.shields.io/badge/Go-1.23.4-black)
+
 - An internet connection to fetch IP information
 
 ### Installation
